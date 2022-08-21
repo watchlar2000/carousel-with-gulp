@@ -1,5 +1,5 @@
 # carousel-with-gulp
-Practice setting-yup the gulp.
+Practice setting-up the gulp.
 
 ## Getting started
 
