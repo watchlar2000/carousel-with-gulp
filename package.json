@@ -1,0 +1,36 @@
+{
+  "name": "carousel-jquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "gulp",
+    "build": "gulp build"
+  },
+  "author": "Sergii Kochetov <sergii.koch@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "del": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-file-include": "^2.3.0",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-replace": "^1.1.3",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "less": "^4.1.3",
+    "sass": "^1.54.1",
+    "webpack": "^5.74.0",
+    "webpack-stream": "^7.0.0"
+  },
+  "dependencies": {
+    "gulp-concat": "^2.6.1",
+    "jquery": "^3.6.0",
+    "lightslider": "^1.1.6"
+  }
+}
